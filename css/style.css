@@ -325,7 +325,7 @@ button {
 }
 
 .text-bg span {
-     color: #fdd430;
+     color: #000000;
      font-size: 40px;
      line-height: 35px;
      font-weight: bold;
@@ -476,7 +476,7 @@ button {
 }
 
 .Services .Services-box:hover {
-     background: #8308eb;
+     background: #000000;
      transition: ease-in all 0.5s;
      cursor: pointer;
 }
@@ -502,7 +502,7 @@ button {
 }
 
 .read_more:hover {
-     background: #8308eb;
+     background: #000000;
      color: #fff;
 }
 
@@ -552,7 +552,7 @@ button {
 .why .why-box p {
      font-size: 16px;
      line-height: 24px;
-     color: #090808;
+     color: #000000;
 }
 
 .why .why-box:hover {
@@ -562,7 +562,7 @@ button {
 
 .bg {
      font-size: 16px;
-     background-color: #090808;
+     background-color: #000000;
      color: #fff;
      padding: 10px 0px;
      width: 100%;
@@ -575,7 +575,7 @@ button {
 }
 
 .bg:hover {
-     background: #8308eb;
+     background: #000000;
      color: #fff;
 }
 
@@ -632,7 +632,7 @@ button {
 }
 
 .contact .main_form .send:hover {
-     background-color: #8308eb;
+     background-color: #000000;
      transition: ease-in all 0.5s;
      color: #fff;
 }
