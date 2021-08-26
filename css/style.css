@@ -195,6 +195,7 @@ button {
      margin: 0;
      padding: 0;
      cursor: pointer;
+     border-radius: 20px;
 }
 
 .full {
@@ -348,6 +349,7 @@ button {
      text-align: center;
      display: inline-block;
      text-transform: uppercase;
+     border-radius: 20px;
 }
 
 .text-bg a:hover {
@@ -409,6 +411,7 @@ button {
      text-transform: uppercase;
      font-weight: 400;
      margin-top: 10px;
+     border-radius: 20px;
 }
 
 .web_hosting a:hover {
